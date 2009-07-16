@@ -11,8 +11,8 @@ Download the latest version of idvk.tar from the Downloads page.
       `mkdir dvk`
 
   # Untar the archive into the directory
-      `cd dvk`
-      `tar xvf <path/to/idvk.tar>`
+      * `cd dvk`
+      * `tar xvf <path/to/idvk.tar>`
 
   # Run the idvk script and follow the instructions
       `./idvk.sh`
