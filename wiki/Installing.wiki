@@ -1,4 +1,5 @@
 #summary Installing the scripts and patches
+#labels Phase-Deploy,Featured
 
 = Download =
 
