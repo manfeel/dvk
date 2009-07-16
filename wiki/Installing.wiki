@@ -9,7 +9,6 @@ Download the latest version of idvk.tar from the Downloads page.
 
   # Create a new directory where you want to get and build Dalvik.
       `mkdir dvk`
-
   # Untar the archive into the directory
       * `cd dvk`
       * `tar xvf <path/to/idvk.tar>`
