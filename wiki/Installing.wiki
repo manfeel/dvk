@@ -1,28 +1,24 @@
 #summary Installing the scripts and patches
 
-= Introduction =
+= Download =
 
 Download the latest version of idvk.tar from the Downloads page.
 
 
-= Details =
+= Get, Build =
 
   # Create a new directory where you want to get and build Dalvik.
       `mkdir dvk`
 
   # Untar the archive into the directory
-      `cd dvk'
-      `tar xvf <path/to/idvk.tar>
+      `cd dvk`
+      `tar xvf <path/to/idvk.tar>`
 
   # Run the idvk script and follow the instructions
       `./idvk.sh`
 
-= Get only Dalvik related code from GIT repositories =
-
   # Get Dalvik code and its dependencies
       `./idvk.sh get x86`
-
-= Build =
 
   # Build code and its dependencies
       `./idvk.sh build x86`
