@@ -1,0 +1,16 @@
+#summary ToDo List
+#labels Phase-Requirements
+
+= Introduction =
+
+This page lists the areas where work is being done / can be done. If you have any ideas on additional areas of work, please feel free to comment so that they can be added here.
+
+
+= Details =
+
+  # Identify and isolate dependencies further
+  # Remove bionic libc dependency and compile/run with GNU glibc
+  # Add Debug mode to the build
+  # Identify and isolate Android-specific additions to kernel further
+  # Create images for ARM platform that can be run on emulator
+  # Add more complex samples in patch/samples
