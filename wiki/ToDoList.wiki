@@ -4,7 +4,6 @@
 = Introduction =
 
 If you have any ideas on additional areas of work, please feel free to comment so that they can be added here.
-WikiToDoList
 
 = Details =
 
