@@ -7,15 +7,15 @@ Following are some of the areas that people are working on as enhancements for t
 
 = List of Work Areas =
 
-# Dependencies
+  # Dependencies
 Identify whether more dependencies can be removed (Yes, there are a few source code
 folders which I think can be removed).
 
-# Kernel Dependencies
+  # Kernel Dependencies
 I have also attempted to isolate the Android-related kernel changes to only those that Dalvik needs at build/run-time. The .config files in the tar/dvkpatch folder have that. Those can be further streamlined.
 
-# GIT Update
+  # GIT Update
 Currently, once you have got the sources from GIT, there is no command in "idvk.sh" to update the sources with the latest from the GIT repository. That support needs to be added.
 
-# ARM generic product files and integration with emulator
+  # ARM generic product files and integration with emulator
 The x86 version creates an installer.img similar to the one created by eee_701 folks on this group and everything can be tested in a virtual machine. Similar support can be added for ARM (integration with emulator) so that the examples can be tested more easily.
