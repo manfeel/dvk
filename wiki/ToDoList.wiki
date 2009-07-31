@@ -4,12 +4,13 @@
 = Introduction =
 
 If you have any ideas on additional areas of work, please feel free to comment so that they can be added here.
+[ToDoList]
 
 = Details =
 
   # Identify and isolate dependencies further
   # Remove bionic libc dependency and compile/run with GNU glibc
-  # Add Debug mode to the build
+  # Add Debug mode to the build (liuhuaiyong is working on this)
   # Identify and isolate Android-specific additions to kernel further
   # Create images for ARM platform that can be run on emulator
   # Add more complex samples in patch/samples
